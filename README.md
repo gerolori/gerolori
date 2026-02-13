@@ -1,6 +1,6 @@
 # Lorenzo Gerosa
 
-Software Developer with a B.Sc. in Computer Science for Digital Communication. I build backend systems, full-stack applications, and hardware-integrated solutions.
+Software Developer with a B.Sc. in Computer Science for New Media. I build backend systems, full-stack applications, and tinker with hardware.
 
 ## Experience
 
@@ -24,4 +24,4 @@ Core topics: Object-Oriented Programming (Java), Algorithms and Data Structures,
 
 ## Links
 
-[Documentation](https://docu.gerosalorenzo.com) • [LinkedIn](https://linkedin.com/in/gerolori) • [Email](mailto:work@gerosalorenzo.com)
+[LinkedIn](https://linkedin.com/in/gerolori) • [Email](mailto:work@gerosalorenzo.com)
