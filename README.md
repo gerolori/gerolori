@@ -8,6 +8,12 @@ Software Developer with a B.Sc. in Computer Science for Digital Communication. I
 
 Built an AI-powered Applicant Tracking System using Java/Spring Boot, Hibernate, and local LLM inference via Ollama. Designed microservice APIs for CV processing, anonymization, and interaction with a modern frontend.
 
+## Education
+
+**B.Sc. Computer Science for New Media** — Università degli Studi di Milano — *Nov 2025*
+
+Core topics: Object-Oriented Programming (Java), Algorithms and Data Structures, Databases, Web & Cloud, Mobile Development. Additional coursework: Go, React, Software Engineering, UI/UX.
+
 ## Skills
 
 **Languages**: Java, Go, JavaScript, Python, SQL  
