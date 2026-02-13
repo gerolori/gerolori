@@ -1,5 +1,3 @@
-# Lorenzo Gerosa
-
 Software Developer with a B.Sc. in Computer Science for New Media. I build backend systems, full-stack applications, and tinker with hardware.
 
 ## Experience
